@@ -1,0 +1,10 @@
+C:\Users\Dilshan\Desktop\Visual Studio\The Business\Company\Company\bin\Debug\Company.exe.config
+C:\Users\Dilshan\Desktop\Visual Studio\The Business\Company\Company\bin\Debug\Company.exe
+C:\Users\Dilshan\Desktop\Visual Studio\The Business\Company\Company\bin\Debug\Company.pdb
+C:\Users\Dilshan\Desktop\Visual Studio\The Business\Company\Company\obj\Debug\Company.csprojAssemblyReference.cache
+C:\Users\Dilshan\Desktop\Visual Studio\The Business\Company\Company\obj\Debug\Company.Form1.resources
+C:\Users\Dilshan\Desktop\Visual Studio\The Business\Company\Company\obj\Debug\Company.Properties.Resources.resources
+C:\Users\Dilshan\Desktop\Visual Studio\The Business\Company\Company\obj\Debug\Company.csproj.GenerateResource.cache
+C:\Users\Dilshan\Desktop\Visual Studio\The Business\Company\Company\obj\Debug\Company.csproj.CoreCompileInputs.cache
+C:\Users\Dilshan\Desktop\Visual Studio\The Business\Company\Company\obj\Debug\Company.exe
+C:\Users\Dilshan\Desktop\Visual Studio\The Business\Company\Company\obj\Debug\Company.pdb
